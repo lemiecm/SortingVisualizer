@@ -1,3 +1,6 @@
+# Sorting Visualizer
+This web application is responsible for visualizing the work done by different sorting algorithms. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
